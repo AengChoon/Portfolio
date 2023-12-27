@@ -13,5 +13,7 @@ UCLASS()
 class PORTFOLIO_API AMyPlayer : public AMyCharacterBase
 {
 	GENERATED_BODY()
-	
+
+public:
+	AMyPlayer();
 };
