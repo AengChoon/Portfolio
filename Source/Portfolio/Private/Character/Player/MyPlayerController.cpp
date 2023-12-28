@@ -7,7 +7,8 @@
 
 AMyPlayerController::AMyPlayerController()
 {
-	bReplicates = true; 
+	bReplicates = true;
+	bEnableMouseOverEvents = true;
 }
 
 void AMyPlayerController::BeginPlay()

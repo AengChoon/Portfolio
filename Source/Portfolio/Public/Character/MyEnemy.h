@@ -16,5 +16,9 @@ class PORTFOLIO_API AMyEnemy : public AMyCharacterBase, public IEnemyInterface
 	GENERATED_BODY()
 
 public:
+	virtual void NotifyActorBeginCursorOver() override;
+	virtual void NotifyActorEndCursorOver() override;
+
+	
 	virtual void HighlightActor(bool bInShouldHighlight) override;
 };

@@ -6,6 +6,7 @@
 #include "GameFramework/PlayerController.h"
 #include "MyPlayerController.generated.h"
 
+class IEnemyInterface;
 struct FInputActionValue;
 class UInputMappingContext;
 class UInputAction;
