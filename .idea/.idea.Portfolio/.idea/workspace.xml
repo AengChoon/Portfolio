@@ -12,10 +12,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a281272e-d6bd-4ff9-97e6-5302e049e599" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Portfolio/Private/Character/MyEnemy.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Portfolio/Private/Character/MyEnemy.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Portfolio/Private/Character/Player/MyPlayerController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Portfolio/Private/Character/Player/MyPlayerController.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Portfolio/Public/Character/MyEnemy.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Portfolio/Public/Character/MyEnemy.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Portfolio/Public/Character/Player/MyPlayerController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Portfolio/Public/Character/Player/MyPlayerController.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +192,8 @@
       <workItem from="1703682411124" duration="7962000" />
       <workItem from="1703692436122" duration="767000" />
       <workItem from="1703693219142" duration="84000" />
-      <workItem from="1703763640483" duration="2401000" />
+      <workItem from="1703763640483" duration="2681000" />
+      <workItem from="1703766339811" duration="3386000" />
     </task>
     <servers />
   </component>
@@ -206,22 +206,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Source/Portfolio/Private/Character/MyEnemy.cpp</url>
-          <line>7</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Source/Portfolio/Private/Character/MyEnemy.cpp</url>
-          <line>12</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
